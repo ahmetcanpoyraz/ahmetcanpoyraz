@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Can Poyraz</h1>
 <h3 align="center">A passionate Flutter and Android Developer From Turkey.</h3>
 
-- 🌱 I’m currently learning **React Native and Unity.**
+- 🌱 I’m currently learning **React Native.**
 
 - 👨‍💻 All of my projects are available at [www.ahmetcanpoyraz.com](www.ahmetcanpoyraz.com)
 
