@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Can Poyraz</h1>
-<h3 align="center">A passionate Flutter and Android Developer From Turkey.</h3>
+<h3 align="center">A passionate Mobile Application Developer From Turkey.</h3>
 
 - 🌱 I’m currently learning **React Native.**
 
