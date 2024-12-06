@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Can Poyraz</h1>
 <h3 align="center">A passionate Mobile Application Developer From Turkey.</h3>
 
-- 🌱 I’m currently learning **React Native.**
-
 - 👨‍💻 All of my projects are available at [www.ahmetcanpoyraz.com](www.ahmetcanpoyraz.com)
 
 - 📫 How to reach me **poyrazahmetcan11@gmail.com**
